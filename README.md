@@ -7,4 +7,4 @@ Simply run npm-install, add credentials and settings to settings.js and run node
 
 
 
-!!! Project was made for informational and educational purposes only. !!!
+!!! Project was made for informational and educational purposes only !!!
